@@ -1,0 +1,15 @@
+SMALLEST DIFFERENCE BETWEEN NUMBERS IN AN ARRAY
+An example of the array
+Sort it
+An empty list
+New variables created
+
+
+As far as we have not iterated more times than the length of the array
+the diff between two consecutive numbers (it is sorted remember)
+add it to the empty list
+we increment i and j...
+...to move on the next set of integers
+increment count also by 1
+the diff of each set of consecutive numbers is stored in the once empty list
+JUST PRINT THE MINIMUM NUMBER OF THE LIST
