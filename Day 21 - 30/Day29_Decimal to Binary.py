@@ -13,15 +13,15 @@ def only_int(num):
 print(only_int(5))
 
 
-import math
-sentence = 'can is good%'
-puncs = """!@#$%^&"*()?"""
-punc_no = ""
-for i in sentence:
-    if i not in puncs:
-        punc_no += i
-char_len = len(punc_no.replace(" ", ""))
-word_list = punc_no.split(" ")
-print(word_list)
-word_len = len(word_list)
-print(math.ceil(char_len / word_len))
+# import math
+# sentence = 'can is good%'
+# puncs = """!@#$%^&"*()?"""
+# punc_no = ""
+# for i in sentence:
+#     if i not in puncs:
+#         punc_no += i
+# char_len = len(punc_no.replace(" ", ""))
+# word_list = punc_no.split(" ")
+# print(word_list)
+# word_len = len(word_list)
+# print(math.ceil(char_len / word_len))

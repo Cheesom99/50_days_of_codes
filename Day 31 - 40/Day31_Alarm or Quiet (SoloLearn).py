@@ -6,5 +6,3 @@ if abs(ind_dollars - ind_thief) == 1:
     print("ALARM")
 else:
     print("quiet")
-
-

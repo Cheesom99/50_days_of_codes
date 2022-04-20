@@ -1,4 +1,4 @@
-# https://www.geeksforgeeks.org/smallest-difference-pair-values-two-unsorted-arrays/
+# smallest-difference-pair-values-two-unsorted-arrays/
 import sys
 a = [23, 55, 11, 45, 57, 45]
 b = [29, 20, 72, 60]

@@ -1,6 +1,3 @@
-# add two sorted lists
-# median of two sorted arrays
-
 # convert angles to radians
 # import pi from math module
 import math
